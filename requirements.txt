@@ -1,0 +1,6 @@
+requests
+folium
+fastapi
+peewee
+uvicorn
+python-dotenv
